@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'MyAgentPool'
+  'MyAgentPool'
 
 variables:
   buildConfiguration: 'Release'
